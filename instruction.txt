@@ -1,0 +1,10 @@
+Login System Without Ajax (With Page Reload)
+
+Login System With AJAX ( Without page reload )
+
+
+https://www.w3schools.com/sql/sql_select.asp
+
+https://www.w3schools.com/sql/sql_where.asp
+
+SELECT column1, column2, ...FROM table_name WHERE condition;
